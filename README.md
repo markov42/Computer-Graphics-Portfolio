@@ -43,6 +43,6 @@ Feel free to explore each project to get a sense of my skills and expertise in c
 Have questions or interested in collaborating on a project? Feel free to contact me:
 
 - Email: [jingliu597@gmail.com](mailto:jingliu597@gmail.com)
-- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jingliu6601/))
+- LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/jingliu6601])
 
 I look forward to connecting with you!
