@@ -30,9 +30,8 @@ Below is a brief overview of the projects included in this portfolio:
 - <img width="606" alt="demo1" src="https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/cfd338f1-9fc5-40c6-be07-470af6c63297">
 - <img width="608" alt="demo2" src="https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/d43b11ea-ea6d-4234-96b7-d938db5661cd">
 
-
 - **Project 4**: Skull-Texturing
-- https://github.com/markov42/skull-texturing/assets/60806325/0bf20af1-ff7c-4e78-9379-52d4156f2253
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/d96f7777-13cf-4c30-ac9c-6311f2857bc0
 
 - **Project 5**: Firework
 - https://github.com/markov42/Firework/assets/60806325/289b734d-f69f-4a3c-af67-64432305b821
