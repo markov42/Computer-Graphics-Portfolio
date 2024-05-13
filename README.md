@@ -14,7 +14,7 @@ By watching these videos, you'll get a comprehensive overview of each project, i
 
 ## How to Access the Code
 
-Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [jingliu597@gmail.com](mailto:jingliu597@gmail.com) to request access to the private repository containing the code.
+Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [jingliu597@gmail.com](mailto:jingliu597@gmail.com) to request access to my private repository containing the code.
 
 ## Projects
 
