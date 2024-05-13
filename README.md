@@ -27,8 +27,9 @@ Below is a brief overview of the projects included in this portfolio:
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/bac723b6-98a4-4bfa-8c46-bbe41bdfb2e9
 
 - **Project 3**: Ray-Tracing-Disco-Balls
-- ![demo1](https://github.com/markov42/Ray-Tracing-Disco-Balls/assets/60806325/42f07a09-31a8-4ec8-a7a3-2d841cc99b02)
-- ![demo2](https://github.com/markov42/Ray-Tracing-Disco-Balls/assets/60806325/cfdab1e6-fc10-41ef-947f-2dbb6128ad1a)
+- <img width="606" alt="demo1" src="https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/cfd338f1-9fc5-40c6-be07-470af6c63297">
+- <img width="608" alt="demo2" src="https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/d43b11ea-ea6d-4234-96b7-d938db5661cd">
+
 
 - **Project 4**: Skull-Texturing
 - https://github.com/markov42/skull-texturing/assets/60806325/0bf20af1-ff7c-4e78-9379-52d4156f2253
