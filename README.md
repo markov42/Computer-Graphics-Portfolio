@@ -24,7 +24,7 @@ Below is a brief overview of the projects included in this portfolio:
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/82d82113-266e-4900-bb42-70bd6eaf8137
 
 - **Project 2**: Perlin-Noise-Terrain
-- https://github.com/markov42/Perlin-Noise-Terrain/assets/60806325/a1d27af2-c73b-44c4-aa06-0e68647a9597
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/bac723b6-98a4-4bfa-8c46-bbe41bdfb2e9
 
 - **Project 3**: Ray-Tracing-Disco-Balls
 - ![demo1](https://github.com/markov42/Ray-Tracing-Disco-Balls/assets/60806325/42f07a09-31a8-4ec8-a7a3-2d841cc99b02)
