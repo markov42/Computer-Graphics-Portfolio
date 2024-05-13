@@ -21,7 +21,7 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 Below is a brief overview of the projects included in this portfolio:
 
 - **Project 1**: Blood Moon - Using GLSL and C++ to recreate the iconic scene from "The Legend of Zelda: Breath of the Wild" - "the blood moon rises once again."
-- https://github.com/markov42/blood-moon/assets/60806325/6af7c237-9bd2-47c9-9de9-70105eaa1528
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/82d82113-266e-4900-bb42-70bd6eaf8137
 
 - **Project 2**: Perlin-Noise-Terrain
 - https://github.com/markov42/Perlin-Noise-Terrain/assets/60806325/a1d27af2-c73b-44c4-aa06-0e68647a9597
