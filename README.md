@@ -36,6 +36,11 @@ Below is a brief overview of the projects included in this portfolio:
 - **Project 5**: Firework
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/655914c4-87f5-4e90-b298-90b05a7d4693
 
+- **Project 6**: Lighting and Shading
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/3fbdca6d-9615-4cfa-888e-72581bda8452
+
+
+
 Feel free to explore each project to get a sense of my skills and expertise in computer graphics.
 
 ## Contact Me
