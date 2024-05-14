@@ -17,9 +17,6 @@ By watching these videos, you'll get a comprehensive overview of each project, i
 Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [jingliu597@gmail.com](mailto:jingliu597@gmail.com) to request access to my private repository containing the code.
 
 ## Projects
-
-Below is a brief overview of the projects included in this portfolio:
-
 - **Project 1**: Blood Moon - Using GLSL and C++ to recreate the iconic scene from "The Legend of Zelda: Breath of the Wild" - "the blood moon rises once again."
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/82d82113-266e-4900-bb42-70bd6eaf8137
 
