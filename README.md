@@ -41,7 +41,6 @@ Below is a brief overview of the projects included in this portfolio:
 
 
 
-Feel free to explore each project to get a sense of my skills and expertise in computer graphics.
 
 ## Contact Me
 
