@@ -39,6 +39,8 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 - **Project 7**: Transformation Garden
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/cecf02b5-d171-4a03-83cc-5329b57da950
 
+- **Project 8**: Mesh Subdivision Hand
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/0f7ce431-7557-49a0-9a53-d965b4da388e
 
 
 
