@@ -36,6 +36,10 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 - **Project 6**: Lighting and Shading
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/3fbdca6d-9615-4cfa-888e-72581bda8452
 
+- **Project 7**: Transformation Garden
+- https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/cecf02b5-d171-4a03-83cc-5329b57da950
+
+
 
 
 
