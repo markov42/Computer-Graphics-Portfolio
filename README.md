@@ -15,6 +15,9 @@ By watching these videos, you'll get a comprehensive overview of each project, i
 Interested in diving deeper into the code behind these projects? I'm happy to share the code with potential employers and collaborators. Please reach out to me via email at [jingliu597@gmail.com](mailto:jingliu597@gmail.com) to request access to my private repository containing the code.
 
 ## Projects
+
+![CTAmbet - Imgur](https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4)
+
 - **Project 1**: CastNetGraph - This project demonstrates a force-directed graph visualization with various user interface elements and interactive features. Users can search for TV Shows or Cast members, and detailed information is displayed in a responsive detail info card. The graph dynamically arranges nodes and links to provide a clear and understandable layout.
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/563387ac-caf6-42cb-a2d1-c9e12d4ef463
 
