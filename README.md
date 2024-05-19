@@ -17,7 +17,7 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 ## Projects
 - **Project 1**: FilmFlow - FilmFlow is an iOS movie-browsing app that is similar to Flixster.
 - ![CTAmbet - Imgur](https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4)
-- [![GIF](assets/NjqBV6h%20-%20Imgur.gif)](assets/NjqBV6h%20-%20Imgur.gif)
+- <img src="https://i.imgur.com/NjqBV6h.gif" width="600">
 
 - **Project 2**: GT_Dining_Rating - This is an iOS app for Georgia Tech Dining Rating.
 - ![App-Walk-though](https://github.com/markov42/Portfolio/assets/60806325/8024adad-274e-4381-a519-032b66eabb8b)
