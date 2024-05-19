@@ -44,7 +44,7 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/0f7ce431-7557-49a0-9a53-d965b4da388e
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/533445be-1d58-42b9-8913-16476613ce96
 
-- **Project 10**: FilmFlow - FilmFlow is an iOS movie-browsing app that is similar to Flixster, added the ability to fetch real data from a third-party server
+- **Project 10**: FilmFlow - FilmFlow is an iOS movie-browsing app that is similar to Flixster, added the ability to fetch real data from a third-party server.
 - <img src="https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4" width="800">
 
 - **Project 11**: GT Dining Rating - This is an iOS app for Georgia Tech Dining Rating.
