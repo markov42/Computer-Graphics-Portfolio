@@ -16,15 +16,13 @@ Interested in diving deeper into the code behind these projects? I'm happy to sh
 
 ## Projects
 - **Project 1**: FilmFlow - FilmFlow is an iOS movie-browsing app that is similar to Flixster.
-![CTAmbet - Imgur](https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4)
+- ![CTAmbet - Imgur](https://github.com/markov42/Portfolio/assets/60806325/7a85afa8-c0db-42c8-8230-6022e0ddeda4)
 
 - **Project 2**: GT_Dining_Rating - This is an iOS app for Georgia Tech Dining Rating.
-
-![App-Walk-though](https://github.com/markov42/Portfolio/assets/60806325/8024adad-274e-4381-a519-032b66eabb8b)
+- ![App-Walk-though](https://github.com/markov42/Portfolio/assets/60806325/8024adad-274e-4381-a519-032b66eabb8b)
 
 - **Project 3**: My Story - My Story is an app that introduces the character in The Legend of Zelda: Breath of the Wild --- Link
-
-![mystory](https://github.com/markov42/Portfolio/assets/60806325/2c257d78-6f13-4090-9907-c24c66988a6c)
+- ![mystory](https://github.com/markov42/Portfolio/assets/60806325/2c257d78-6f13-4090-9907-c24c66988a6c)
 
 - **Project 4**: CastNetGraph - This project demonstrates a force-directed graph visualization with various user interface elements and interactive features. Users can search for TV Shows or Cast members, and detailed information is displayed in a responsive detail info card. The graph dynamically arranges nodes and links to provide a clear and understandable layout.
 - https://github.com/markov42/Computer-Graphics-Portfolio/assets/60806325/563387ac-caf6-42cb-a2d1-c9e12d4ef463
